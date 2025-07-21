@@ -6,10 +6,10 @@
 /*   By: hait-bah <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/20 12:31:12 by hait-bah          #+#    #+#             */
-/*   Updated: 2025/07/20 15:23:15 by hait-bah         ###   ########.fr       */
+/*   Updated: 2025/07/21 10:55:52 by hait-bah         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-/*#include <stdio.h>8/
+/*#include <stdio.h>*/
 
 int	ft_str_is_alpha(char *str)
 {
